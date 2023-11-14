@@ -1,4 +1,4 @@
-<h1 align="center"> AutonomousCar - FIRA </h1>
+<h1 align="center"> AutonomousCar </h1>
 
 ***Based Fira Autonomous car algorithm***
 
